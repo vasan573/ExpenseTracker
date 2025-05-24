@@ -1,0 +1,50 @@
+2025-05-23 20:22:41,256 - db_helper - INFO - fetch_expenses_for_date called with 2024-09-30
+2025-05-23 20:34:04,411 - db_helper - INFO - fetch_expenses_for_date called with 2024-09-30
+2025-05-23 20:36:44,851 - db_helper - INFO - fetch_expenses_for_date called with 2024-09-30
+2025-05-23 21:12:08,532 - db_helper - INFO - fetch_expenses_for_date called with 2024-09-30
+2025-05-23 21:26:44,933 - db_helper - INFO - fetch_expenses_for_date called with 2024-09-30
+2025-05-23 21:33:04,449 - db_helper - INFO - fetch_expenses_for_date called with 2024-09-30
+2025-05-23 21:40:22,146 - db_helper - INFO - fetch_expenses_for_date called with 2024-09-30
+2025-05-23 22:26:48,859 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-05-23 22:30:56,382 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-05-23 22:31:02,820 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-05-23 22:31:15,009 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-05-23 22:31:17,113 - db_helper - INFO - fetch_expense_summary called with start: 2024-08-01 end: 2024-08-05
+2025-05-23 22:32:47,124 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-05-23 22:32:49,253 - db_helper - INFO - delete_expenses_for_date called with 2024-08-01
+2025-05-23 22:38:00,354 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-05-23 22:38:39,435 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-05-23 22:47:42,877 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-05-23 22:55:28,857 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-05-23 22:56:47,143 - db_helper - INFO - fetch_expenses_for_date called with 2024-09-30
+2025-05-23 22:57:25,590 - db_helper - INFO - fetch_expenses_for_date called with 2024-09-30
+2025-05-23 23:00:20,914 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-05-23 23:17:13,600 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-05-23 23:19:39,516 - db_helper - INFO - fetch_expenses_for_date called with 2025-05-23
+2025-05-23 23:20:21,846 - db_helper - INFO - fetch_expenses_for_date called with 2025-05-23
+2025-05-23 23:20:23,964 - db_helper - INFO - delete_expenses_for_date called with 2025-05-23
+2025-05-23 23:20:23,994 - db_helper - INFO - insert_expense called with date: 2025-05-23, amount: 35.0, category: Other, notes: train ticket
+2025-05-23 23:22:52,445 - db_helper - INFO - fetch_expenses_for_date called with 2025-05-23
+2025-05-23 23:22:58,121 - db_helper - INFO - fetch_expenses_for_date called with 2025-05-23
+2025-05-23 23:22:59,304 - db_helper - INFO - fetch_expenses_for_date called with 2025-05-23
+2025-05-23 23:23:01,412 - db_helper - INFO - fetch_expense_summary called with start: 2024-08-15 end: 2024-08-16
+2025-05-23 23:23:37,786 - db_helper - INFO - fetch_expenses_for_date called with 2025-05-23
+2025-05-23 23:23:38,923 - db_helper - INFO - fetch_expenses_for_date called with 2025-05-23
+2025-05-23 23:23:41,067 - db_helper - INFO - fetch_expense_summary called with start: 2024-08-15 end: 2024-08-31
+2025-05-23 23:36:26,807 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-05-23 23:36:43,488 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-05-23 23:36:49,574 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-05-23 23:36:52,320 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-05-23 23:36:55,749 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-05-23 23:36:57,823 - db_helper - INFO - fetch_expense_summary called with start: 2024-08-08 end: 2024-08-31
+2025-05-23 23:38:33,602 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-05-23 23:38:54,132 - db_helper - INFO - fetch_expenses_for_date called with 2025-05-23
+2025-05-23 23:39:14,438 - db_helper - INFO - fetch_expenses_for_date called with 2025-05-23
+2025-05-23 23:39:16,523 - db_helper - INFO - delete_expenses_for_date called with 2025-05-23
+2025-05-23 23:39:16,561 - db_helper - INFO - insert_expense called with date: 2025-05-23, amount: 35.0, category: Other, notes: train ticket
+2025-05-23 23:39:16,576 - db_helper - INFO - insert_expense called with date: 2025-05-23, amount: 10.0, category: Other, notes: juice
+2025-05-23 23:46:00,406 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-05-23 23:46:21,132 - db_helper - INFO - fetch_expenses_for_date called with 2025-05-23
+2025-05-23 23:46:49,332 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-05-24 13:25:30,931 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-05-24 13:26:36,331 - db_helper - INFO - fetch_expenses_for_date called with 2024-09-30
